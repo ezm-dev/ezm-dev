@@ -1,7 +1,7 @@
 
-## Hi, I'm Eman 👋
-I build responsive, user-focused web applications using modern frontend and full-stack technologies.
-💻 Web Developer | React | Next.js | TypeScript | Node.js
+## Hi, there 👋
+I'm Eman, a Web Developer passionate about building modern, responsive, user-focused web applications using modern technologies.
+
 
 
 ## 🛠️ Tech Stack
