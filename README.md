@@ -13,18 +13,31 @@ I'm Eman, a Web Developer passionate about building modern, responsive, user-foc
 - Tools: Git, GitHub, VS Code
 
 
+<!--
 ## 🚀 Featured Projects
 One of the projects I'm proud of:
 ### [Gym Web Application](https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
 React + Node.js + Express + REST API + MySQL
 
 
-<!--
 ### 👕 T-Shirt E-commerce Website
 WordPress + WooCommerce + AWS
 
 ### ⚡ Energy Consumption Dashboard
 HTML + CSS + JavaScript + MVC
+
+
+
+###🤝 Let's Connect
+
+I'm always open to discussing new opportunities or collaborations. Feel free to reach out to me via:
+
+    LinkedIn
+    Email: 
+    Website: 
+🌐 [Portfolio](https://yourwebsite.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+📂 [Projects](https://github.com/yourusername?tab=repositories)
 
 -->
 <!--
