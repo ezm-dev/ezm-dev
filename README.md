@@ -1,9 +1,8 @@
-## Hi there 👋
-# Hi, I'm Eman 👋
 
+## Hi, I'm Eman 👋
+I build responsive, user-focused web applications using modern frontend and full-stack technologies.
 💻 Web Developer | React | Next.js | TypeScript | Node.js
 
-I build responsive, user-focused web applications using modern frontend and full-stack technologies.
 
 ## 🛠️ Tech Stack
 
@@ -13,12 +12,12 @@ I build responsive, user-focused web applications using modern frontend and full
 - CMS: WordPress, WooCommerce
 - Tools: Git, GitHub, VS Code
 
-<!--
+
 ## 🚀 Featured Projects
-
-### 🏋️ Gym Web Application
+One of the projects I'm proud of:
+### [🏋️ Gym Web Application] (https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
 React + Node.js + Express + REST API + MySQL
-
+<!--
 ### 👕 T-Shirt E-commerce Website
 WordPress + WooCommerce + AWS
 
