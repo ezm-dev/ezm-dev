@@ -15,8 +15,10 @@ I build responsive, user-focused web applications using modern frontend and full
 
 ## 🚀 Featured Projects
 One of the projects I'm proud of:
-### [🏋️ Gym Web Application] (https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
+### [Gym Web Application](https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
 React + Node.js + Express + REST API + MySQL
+
+
 <!--
 ### 👕 T-Shirt E-commerce Website
 WordPress + WooCommerce + AWS
