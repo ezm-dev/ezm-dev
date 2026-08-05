@@ -12,13 +12,13 @@ I'm Eman, a Web Developer passionate about building modern, responsive, user-foc
 - Tools: Git, Github, VSCode, Figma, AWS, Vercel, Netlify.
 
 
-<!--
+
 ## 🚀 Featured Projects
 One of the projects I'm proud of:
-### [Gym Web Application](https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
+### [🏋️Gym Web Application](https://github.com/ezm-dev/Gym-FullStack-React-nodejs)
 React + Node.js + Express + REST API + MySQL
 
-
+<!--
 ### 👕 T-Shirt E-commerce Website
 WordPress + WooCommerce + AWS
 
