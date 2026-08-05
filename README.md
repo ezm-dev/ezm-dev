@@ -6,11 +6,10 @@ I'm Eman, a Web Developer passionate about building modern, responsive, user-foc
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- Backend: Node.js, Express, REST APIs
-- Database: MySQL
+- Frontend: Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+- Backend: Node.js, Express.js, REST APIs, MYSQL
 - CMS: WordPress, WooCommerce
-- Tools: Git, GitHub, VS Code
+- Tools: Git, Github, VSCode, Figma, AWS, Vercel, Netlify.
 
 
 <!--
