@@ -1,5 +1,5 @@
 
-## Hi, there 👋
+## Hi 👋
 I'm Eman, a Web Developer passionate about building modern, responsive, user-focused web applications using modern technologies.
 
 
